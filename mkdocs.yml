@@ -1,0 +1,20 @@
+site_name: TIC
+use_directory_urls: false
+
+nav:
+- 'Microsoft 365':
+  - 'Herramientas':
+    - 'Forms': 'contents/ms365/forms.md'
+    - 'Outlook': 'contents/ms365/outlook.md'
+    - 'Sway': 'contents/ms365/sway.md'
+
+theme:
+    language: es
+    name: 'readthedocs'
+    palette:
+        primary: 'Teal'
+        accent: 'Teal'
+    font:
+        text: Roboto
+        code: Roboto Mono
+ #   logo: 'imagenes/logo.png'
