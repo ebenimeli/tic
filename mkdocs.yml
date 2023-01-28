@@ -2,6 +2,8 @@ site_name: TIC
 use_directory_urls: false
 
 nav:
+- 'Competencia Digital':
+  - 'CD Docente': 'contents/compdigital/cdd.md'
 - 'Microsoft 365':
   - 'Herramientas':
     - 'Forms': 'contents/ms365/forms.md'
