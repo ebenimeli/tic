@@ -1,0 +1,7 @@
+# ¿Qué es Microsoft Sway?
+
+Microsoft Sway es una aplicación en línea de **presentaciones digitales** que permite a los usuarios crear y compartir presentaciones interactivas, informes, boletines y otros tipos de contenidos en línea. Sway se diferencia de otras aplicaciones de presentación en que es más dinámica e interactiva, y está diseñada para adaptarse automáticamente a diferentes tamaños de pantalla y dispositivos.
+
+Sway utiliza una interfaz intuitiva basada en gestos y arrastrar y soltar elementos, lo que permite a los usuarios crear presentaciones impresionantes sin necesidad de tener habilidades de diseño avanzadas. La aplicación también incluye una amplia variedad de plantillas, temas y estilos de diseño para que los usuarios puedan personalizar sus presentaciones según sus necesidades.
+
+Sway es parte de la suite de productividad de Microsoft Office y está integrada con otros productos de Microsoft, como OneDrive y SharePoint, lo que facilita la colaboración y el intercambio de contenido entre los usuarios. Además, Sway es una aplicación en línea, lo que significa que no es necesario descargar ningún software para usarla y se puede acceder a ella desde cualquier lugar con una conexión a Internet.
