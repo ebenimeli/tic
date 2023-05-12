@@ -2,13 +2,27 @@ site_name: TIC
 use_directory_urls: false
 
 nav:
+- 'Acerca de':
+  - '¿Qué es esto?' : 'contents/about/about.md'
 - 'Competencia Digital':
   - 'CD Docente': 'contents/compdigital/cdd.md'
+- 'Multimedia':
+  - 'Imagen digital': ''
+  - 'Edición de vídeo': ''
+  - 'Audio digital': ''
+- 'Programación y robótica':
+  - 'Resumen' : 'contents/coderobots/intro.md'
+  - 'Scratch': ''
+  - 'Python': ''
+  - 'Robótica con Makeblock' : ''
 - 'Microsoft 365':
+  - '¿Qué es Microsoft 365?': ''
   - 'Herramientas':
     - 'Forms': 'contents/ms365/forms.md'
     - 'Outlook': 'contents/ms365/outlook.md'
     - 'Sway': 'contents/ms365/sway.md'
+- 'Certificaciones':
+  - 'MIE Expert' : 'contents/certificaciones/miee.md'
 
 theme:
     language: es
@@ -20,3 +34,16 @@ theme:
         text: Roboto
         code: Roboto Mono
  #   logo: 'imagenes/logo.png'
+
+plugins:
+  - glightbox
+  - search
+#  - pandoc
+
+markdown_extensions:
+  - attr_list
+  - sane_lists
+  - footnotes
+
+extra_css:
+  - css/tic.css
